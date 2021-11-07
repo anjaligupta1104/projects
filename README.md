@@ -7,7 +7,7 @@ This folder contains a Jupyter Notebook I wrote as part of my research project i
 
 **intent**
 
-This folder contains my project on AI-driven media forensics to detect fake news under Professor Abhinav Shrivastava at the AI Lab@The University of Maryland in Summer 2019.
+This folder contains my project on AI-driven media forensics to detect fake news under Professor Abhinav Shrivastava at the AI Lab@The University of Maryland in Summer 2019. It also contains an extended abstract that describes the project in detail.
 
 **“Thrive,” iOS App for Mental Wellness:** https://github.com/zane-ice/thrive
 
