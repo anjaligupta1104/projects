@@ -3,9 +3,10 @@ A compilation of coding projects, both personal and academic, that demonstrate m
 
 **eec-gnn**
 
-This folder contains a Jupyter Notebook I wrote as part of my research project in Spring 2021 under the supervision of Professor Marynel Vazquez. This notebook provided important insights on errors our GNN model was making and created visualizations used in the paper and submission video for ICMI 2021.
+This folder contains a Jupyter Notebook I wrote as part of my research project in Spring 2021 under the supervision of Professor Marynel Vazquez. This notebook provided important insights on errors our GNN model was making and created visualizations used in the paper and submission video for ICMI 2021. It also contains the published paper at ICMI 2021 for which I am co-author.
 
 **intent**
+
 This folder contains my project on AI-driven media forensics to detect fake news under Professor Abhinav Shrivastava at the AI Lab@The University of Maryland in Summer 2019.
 
 **“Thrive,” iOS App for Mental Wellness:** https://github.com/zane-ice/thrive
