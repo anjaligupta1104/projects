@@ -1,4 +1,4 @@
-# projects
+# Projects
 A compilation of coding projects, both personal and academic, that demonstrate my strong coding proficiency.
 
 **“Thrive,” iOS App for Mental Wellness:** https://github.com/zane-ice/thrive
@@ -7,7 +7,7 @@ Co-created an easy-to-use and intuitive iOS app to aggregate health information 
 
 **Macro_processer**
 
-This folder contains code for an assignment for a Systems Programming course at Yale. It demonstrates my knowledge of C, memory allocation, and data structures.
+This folder contains code for an assignment for a Systems Programming course at Yale. The assignment was to create a TeX-like macro processor. It demonstrates my knowledge of C, memory allocation, and data structures.
 
 **Bank**
 
