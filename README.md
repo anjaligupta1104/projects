@@ -3,7 +3,7 @@ A compilation of coding projects, both personal and academic, that demonstrate m
 
 **eec-gnn**
 
-This folder contains a Jupyter Notebook I wrote as part of my research project in Spring 2021 under the supervision of Professor Marynel Vazquez. This notebook provided important insights on errors our GNN model was making and created visualizations used in the paper and submission video for ICMI 2021. It also contains the published paper at ICMI 2021 for which I am co-author.
+This folder contains a co-authored paper published at ICMI 2021 and a Jupyter Notebook. The Notebook I wrote for research in Spring 2021 under the supervision of Professor Marynel Vazquez. This notebook provided important insights on errors our GNN model was making and created visualizations used in the paper and submission video for ICMI 2021.
 
 **intent**
 
